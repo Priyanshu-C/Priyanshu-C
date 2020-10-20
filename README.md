@@ -6,9 +6,9 @@ Hi, I'm [Priyanshu Chauhan](https://www.linkedin.com/in/priyanshu-chauhan-467804
 
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
+<!-- <img align="right" height="250" width="400" alt="GIF" src="https://gph.is/g/ap0YjGy" /> -->
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/images/9010a12ff30f52c934f9ceb8e05350e0/tenor.gif?itemid=5104411" />
+<img align="right" alt="GIF" height="250" width="350"  src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
  - 📫 How to reach me: [priyanshuc.info@gmail.com/](mailto:priyanshuc.info@gmail.com)
  - 🔗 My LinkedIn Profile: [https://www.linkedin.com/in/priyanshu-chauhan-467804180/](https://www.linkedin.com/in/priyanshu-chauhan-467804180/)
