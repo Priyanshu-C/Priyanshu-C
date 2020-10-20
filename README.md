@@ -48,7 +48,7 @@ Hi, I'm [Priyanshu Chauhan](https://www.linkedin.com/in/priyanshu-chauhan-467804
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-### :six_pointed_star: Find me elsewhere
+### :six_pointed_star: Quick Snap of Repos
 </br>
 <a href="https://github.com/Priyanshu-C/COVID-DETECTION-USING-XRAY" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu-C&repo=COVID-DETECTION-USING-XRAY&theme=dracula" />
