@@ -54,7 +54,7 @@ Hi, I'm [Priyanshu Chauhan](https://www.linkedin.com/in/priyanshu-chauhan-467804
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu-C&repo=COVID-DETECTION-USING-XRAY&theme=dracula" />
 </a>
 <a href="https://github.com/Priyanshu-C/DataCamp-DataScientist-" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu-C&repo=DataCamp-DataScientist-&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu-C&repo=BUCKITO&theme=dracula" />
 </a>
 <a href="https://github.com/Priyanshu-C/CodeForcesCodes" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshu-C&repo=CodeForcesCodes&theme=dracula" />
