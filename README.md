@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-Hi, I'm [Priyanshu Chauhan](https://www.linkedin.com/in/priyanshu-chauhan-467804180/), a creative problem-solving enthusiast and Data Scientist 👨🏻‍💻 from India. I've had been exploring every end of : and have finally found my passion. Learning every day to keep that passion alive. I love playing badminton.
+Hi, I'm [Priyanshu Chauhan](https://www.linkedin.com/in/priyanshu-chauhan-467804180/), a creative problem-solving enthusiast Web Developer 👨🏻‍💻 from India. Learning every day to keep that passion alive. I love playing badminton.
 
 <br>
 
