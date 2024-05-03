@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-Hi, I'm [Priyanshu Chauhan](https://www.linkedin.com/in/priyanshu-chauhan-467804180/), a creative problem-solving enthusiast Web Developer 👨🏻‍💻 from India. Learning every day to keep that passion alive. I love playing badminton.
+Hi, I'm [Priyanshu Chauhan](https://www.linkedin.com/in/priyanshu--chauhan/), a creative problem-solving enthusiast Web Developer 👨🏻‍💻 from India. Learning every day to keep that passion alive. I love playing badminton.
 
 <br>
 
@@ -11,7 +11,7 @@ Hi, I'm [Priyanshu Chauhan](https://www.linkedin.com/in/priyanshu-chauhan-467804
 <img align="right" alt="GIF" height="250" width="350"  src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
  - 📫 How to reach me: [priyanshuc.info@gmail.com/](mailto:priyanshuc.info@gmail.com)
- - 🔗 My LinkedIn Profile: [https://www.linkedin.com/in/priyanshu-chauhan-467804180/](https://www.linkedin.com/in/priyanshu-chauhan-467804180/)
+ - 🔗 My LinkedIn Profile: [https://www.linkedin.com/in/priyanshu-chauhan-467804180/](https://www.linkedin.com/in/priyanshu--chauhan/)
  
 <br>
 <br>
